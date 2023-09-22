@@ -10,3 +10,5 @@
 | Vjudge | [tarek200](https://vjudge.net/user/tarek200) | 162 |
 | HackerRank | [tarekrahamn01](https://www.hackerrank.com/tarekrahamn01]) | 10 |
 | Total | | 710 |
+
+Last Updated: 22 September, 2023
