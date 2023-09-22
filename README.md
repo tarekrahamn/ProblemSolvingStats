@@ -9,6 +9,7 @@
 | Toph | [Tarek200](https://toph.co/u/Tarek200) | 7 |
 | Vjudge | [tarek200](https://vjudge.net/user/tarek200) | 162 |
 | HackerRank | [tarekrahamn01](https://www.hackerrank.com/tarekrahamn01]) | 10 |
-| Total | | 710 |
+| CSES | [tarek200](https://cses.fi/user/153888) | 10 |
+| Total | | 720 |
 
 Last Updated: 22 September, 2023
